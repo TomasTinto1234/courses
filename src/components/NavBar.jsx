@@ -21,8 +21,8 @@ const NavBar = () => {
                         <ul id="links">
                             <li><a href="#inicio"  onclick="seleccionar(this)">HOME</a></li>
                             <li><a href="#sobremi" onclick="seleccionar(this)">JavaScript</a></li>
-                            <li><a href="#servicios" onclick="seleccionar(this)">React</a></li>
-                            <li><a href="#portfolio" onclick="seleccionar(this)">Node.js</a></li>
+                            <li><a href="#skills" onclick="seleccionar(this)">Node.js</a></li>
+                            <li><a href="#React" onclick="seleccionar(this)">React</a></li>
                             <li><a href="#contacto" onclick="seleccionar(this)">Resumen</a></li>
                         </ul>
                     </nav>

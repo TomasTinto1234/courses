@@ -3,7 +3,7 @@ import image from "../img/react.png";
 
 const AboutMe = () => {
   return (
-    <div className="contenedor-skills3">
+    <div className="contenedor-skills3" id="React">
       <div>
         <img src={image} alt="" height={"250px"} />
       </div>
