@@ -5,7 +5,7 @@ const AboutMe = () => {
   return (
     <div className="contenedor-skills2">
         <div>
-          <img src={image} alt="" height={"350px"} />
+          <img src={image} alt="" height={"250px"} />
         </div>
       <section id="sobremi">
         <div className="sobremi">

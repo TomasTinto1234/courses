@@ -7,7 +7,7 @@ const Habilities = () => {
       {/* <h3>Desarrollo del Lado del Servidor con Node.js </h3> */}
       <div>
         <div>
-          <img src={image} alt="" height={"250px"} />
+          <img src={image} alt="" height={"200px"} />
         </div>
         <section id="sobremi">
           <div className="sobremi">

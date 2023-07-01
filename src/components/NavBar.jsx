@@ -53,7 +53,7 @@ const NavBar = () => {
             este curso, estarás preparado para construir aplicaciones web
             completas utilizando estas tecnologías populares.
             </p>
-              <a href="#portfolio"> Empezar</a>
+              <a href="#sobremi"> Empezar</a>
             </div>
       </div>
     </section>
