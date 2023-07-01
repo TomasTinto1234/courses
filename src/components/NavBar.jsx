@@ -1,4 +1,5 @@
 import React from 'react'
+import image from "../img/cursos.png";
 
 const NavBar = () => {
   
@@ -16,7 +17,9 @@ const NavBar = () => {
       <div className ="contenido">
         <header>
           <div className="contenido-header">
-           <h1>Cursos</h1>
+           <h1><div>
+        <img src={image} alt="" height={"50px"} width={"190px"} />
+      </div></h1>
            <nav id="elnav">
                         <ul id="links">
                             <li><a href="#inicio"  onclick="seleccionar(this)">Inicio</a></li>
@@ -41,9 +44,9 @@ const NavBar = () => {
           </div>
         </header>
           <div  className="presentacion">
-            <p className="bienvenida">Curso de </p>
+            <p className="bienvenida">Cursos de </p>
             <h2>
-              <span className="javascript">JavaScript</span>, <span className="node">Node.js</span>, <span className="react">React</span></h2>
+              <span className="javascript">JavaScript</span> - <span className="node">Node.js</span> - <span className="react">React</span></h2>
             <p className="descripcion"> Aprende a crear aplicaciones web con JavaScript, React y Node.js
             Este curso te proporcionará los conocimientos necesarios para
             desarrollar aplicaciones web utilizando JavaScript, React y Node.js.
