@@ -142,9 +142,17 @@ html {
     text-align: center;
 }
 
-#inicio .contenido .presentacion h2 span {
+#inicio .contenido .presentacion h2 .node {
     font-size: 55px;
     color: #87BE56;
+}
+#inicio .contenido .presentacion h2 .javascript {
+  font-size: 55px;
+  color: #bebe02;
+}
+#inicio .contenido .presentacion h2 .react {
+  font-size: 55px;
+  color: #02be98;
 }
 
 #inicio .contenido .presentacion .descripcion {

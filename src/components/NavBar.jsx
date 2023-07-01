@@ -42,7 +42,8 @@ const NavBar = () => {
         </header>
           <div  className="presentacion">
             <p className="bienvenida">Curso de </p>
-            <h2><span>JavaScript, Node.js y React</span></h2>
+            <h2>
+              <span className="javascript">JavaScript</span>, <span className="node">Node.js</span>, <span className="react">React</span></h2>
             <p className="descripcion"> Aprende a crear aplicaciones web con JavaScript, React y Node.js
             Este curso te proporcionará los conocimientos necesarios para
             desarrollar aplicaciones web utilizando JavaScript, React y Node.js.
