@@ -19,7 +19,7 @@ const NavBar = () => {
            <h1>Cursos</h1>
            <nav id="elnav">
                         <ul id="links">
-                            <li><a href="#inicio"  onclick="seleccionar(this)">HOME</a></li>
+                            <li><a href="#inicio"  onclick="seleccionar(this)">Inicio</a></li>
                             <li><a href="#sobremi" onclick="seleccionar(this)">JavaScript</a></li>
                             <li><a href="#skills" onclick="seleccionar(this)">Node.js</a></li>
                             <li><a href="#React" onclick="seleccionar(this)">React</a></li>
